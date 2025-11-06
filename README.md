@@ -12,8 +12,8 @@ This concept is inspired by the **green screen (chroma key)** technique widely u
 - NumPy – Array manipulation and numerical operations  
 
 ## Key Features
-- Detects and isolates a single target color in a live video or image  
-- Replaces the detected color with a new color in real time  
+- Detects and isolates target colors in a live video or image  
+- Replaces the detected colors with a new color in real time  
 - Uses the HSV color space for robust and accurate color segmentation  
 - Demonstrates how to use masks and kernels to refine image processing  
 - Provides an interactive and visual understanding of color detection principles  
@@ -22,7 +22,7 @@ This concept is inspired by the **green screen (chroma key)** technique widely u
 1. The video frames are read and converted from BGR to HSV color space.  
 2. A color range is defined (using HSV values) to create a binary mask.  
 3. The mask isolates regions containing the target color.  
-4. The selected color is replaced with a new color of choice.  
+4. The selected colors is replaced with a new color of choice.  
 5. The processed frame is displayed in real time, showing the transformation effect.  
 
 ## Real-World Applications
