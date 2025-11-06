@@ -31,8 +31,6 @@ This concept is inspired by the **green screen (chroma key)** technique widely u
 - **Augmented Reality (AR):** Tracking and modifying color-based objects in real time  
 - **Object Tracking:** Detecting and following objects of a specific color for robotics or automation projects  
 
-## Demo
-A sample video file (`updated video.mp4`) is included, demonstrating the color detection and replacement process in action.  
 
 ## Project Highlights
 - Helps understand fundamental computer vision and image segmentation techniques  
